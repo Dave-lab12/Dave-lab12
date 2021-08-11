@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <img src="https://png2.cleanpng.com/sh/83de83b990f3972c1ed28507ea645427/L0KzQYm3VME3N51uiZH0aYP2gLBuTf5wbJYyguU2anH5ccTqkvlxfF54feRBZYKwg7rrhb10a6NuiOZybnewgsbpmb02aZU5fdYDNXLnRoTtUb40PGQ5TaI9MkG4QoSCUMM5P2g8T6cDLoDxd1==/kisspng-node-js-javascript-server-side-scripting-ruby-5ad4ed85bd63f1.3434504215239038777758.png" width="100" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
 
-<img src="https://png2.cleanpng.com/sh/18625b746f86f06418e8e4a0fe449c00/L0KzQYm3VcEzN5ZofZH0aYP2gLBuTgJmaZR5RdxqdnH2c8PwkQQudJpnitN7eT3qecXvlfIuPZJrT6JuM3O4c4i6hMUvPWM4UaMBNEi0RYO9UcQxPGg7S6kDNz7zfri=/kisspng-react-javascript-library-github-5af70e3c5c73d5.5239164815261404763787.png" width="100" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
+<img src="https://png2.cleanpng.com/sh/18625b746f86f06418e8e4a0fe449c00/L0KzQYm3VcEzN5ZofZH0aYP2gLBuTgJmaZR5RdxqdnH2c8PwkQQudJpnitN7eT3qecXvlfIuPZJrT6JuM3O4c4i6hMUvPWM4UaMBNEi0RYO9UcQxPGg7S6kDNz7zfri=/kisspng-react-javascript-library-github-5af70e3c5c73d5.5239164815261404763787.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
   </div>
