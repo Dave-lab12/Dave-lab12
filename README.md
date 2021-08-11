@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 
 ##languages and tools
-<a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="200" alt="javascript vector logo yellow png transparent javascript vector" /></a>
+<a href="https://www.freepnglogos.com/pics/javascript" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" /></a>
