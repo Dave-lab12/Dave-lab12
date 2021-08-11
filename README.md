@@ -1,5 +1,6 @@
+![me](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/Dave-lab12/<OWNER>/<OWNER>/giphy.gif "Header")](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+<!-- [![Header](https://raw.githubusercontent.com/Dave-lab12/<OWNER>/<OWNER>/giphy.gif "Header")](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) -->
 <!--
 **Dave-lab12/Dave-lab12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
