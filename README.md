@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:dwtmekonnen123@gmail.com">click here</a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-##languages and tools
+languages and tools
 <br/>
 <div>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
