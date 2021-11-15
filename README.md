@@ -22,7 +22,7 @@ languages and tools
 <div>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
 
-<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="100" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
+<img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
 
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
   </div>
