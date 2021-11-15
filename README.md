@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on m -->
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Mobile Development
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -25,4 +25,10 @@ languages and tools
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
 
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
+  
+  
+<img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
+  
+  
+  <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="50" height="50" alt="javascript vector logo yellow png transparent javascript vector" />
   </div>
