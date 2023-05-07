@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawit Mekonnen</h1>
-<h3 align="center">I'm a 🔥 fullstack developer who loves building web apps with Node.js and Next.js. <br> When I'm not coding, you can find me 📺 binging Netflix, 🌄 hiking, or trying to convince my cat that he's actually a dog (he's not convinced yet). Thanks for stopping by my profile – hope you find something useful here! 😊</h3>
+<p >I'm a 🔥 fullstack developer who loves building web apps with Node.js and Next.js. <br> When I'm not coding, you can find me 📺 binging Netflix, 🌄 hiking, or trying to convince my cat that he's actually a dog (he's not convinced yet). Thanks for stopping by my profile – hope you find something useful here! 😊</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-lab12&label=Profile%20views&color=0e75b6&style=flat" alt="dave-lab12" /> </p>
 
