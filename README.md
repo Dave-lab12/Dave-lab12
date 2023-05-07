@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **web development in general**
 
-- 🤝 I’m looking for help with **game development**
-
 - 👨‍💻 All of my projects are available at [dawit.dev](dawit.dev)
 
 - 💬 Ask me about **Javascript,React**
