@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-lab12&label=Profile%20views&color=0e75b6&style=flat" alt="dave-lab12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dave-lab12" alt="dave-lab12" /></a> </p>
+<a href="https://info.flagcounter.com/S822"><img src="https://s01.flagcounter.com/count2/S822/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
 - 🌱 I’m currently learning **Golang**
 
