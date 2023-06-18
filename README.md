@@ -10,10 +10,6 @@
 
 - 👯 I’m looking to collaborate on **web development in general**
 
-- 👨‍💻 All of my projects are available at [dawit.dev](dawit.dev)
-
-- 💬 Ask me about **Javascript,React**
-
 - 📫 How to reach me **dwtmekonnen123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
