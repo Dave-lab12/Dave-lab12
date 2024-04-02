@@ -12,8 +12,4 @@ I'm a full-stack developer passionate about creating sleek web applications with
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dave-lab12&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dave-lab12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
