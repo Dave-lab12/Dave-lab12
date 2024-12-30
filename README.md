@@ -1,6 +1,8 @@
 <h1>Hi, I'm Dawit Mekonnen</h1>
 <p>
-Dawit Mekonnen is a software engineer working in Ethiopia, specializing in front-end development using TypeScript. I also have a broad range of experience in web app development, not only in the front-end area but also in the back-end and an eye for designing visually appealing and user-friendly interfaces.
+Dawit Mekonnen is a software engineer from Ethiopia building with TypeScript and SvelteKit. When not coding, he's exploring systems design and architecture patterns.
+
+Currently building with TypeScript, SvelteKit, Node.js, and PostgreSQL.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dave-lab12&label=Profile%20views&color=008b8b&style=flat" alt="dave-lab12" /> </p>
 
